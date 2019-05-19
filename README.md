@@ -1,2 +1,3 @@
 # mapping
-rtabmap
+##This pkg uses gmapping to map the environment
+
